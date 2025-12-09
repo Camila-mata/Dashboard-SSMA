@@ -21,8 +21,8 @@ O dashboard está publicado e disponível para visualização interativa no Powe
 Para uma visualização rápida do design e dos principais gráficos, confira o screenshot abaixo:
 
 ![Screenshot do Dashboard de SSMA]
-(https://github.com/Camila-mata/Dashboard-SSMA/blob/main/Imagem/equipessma.png)
-(C:\Users\User\Desktop\POWER BI\Portifolio\equipessma.png)
+(imagem/visao-geral.png)
+(imagem/equipessma.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
