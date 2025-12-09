@@ -22,7 +22,7 @@ Para uma visualização rápida do design e dos principais gráficos, confira o 
 
 ![Screenshot do Dashboard de SSMA](Imagem/visao-geral.png)
 
-![Screenshot do Dashboard de SSMA](Imagem/equipesma.png)
+![Screenshot do Dashboard de SSMA](Imagem/equipessma.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
