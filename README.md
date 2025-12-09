@@ -21,6 +21,7 @@ O dashboard está publicado e disponível para visualização interativa no Powe
 Para uma visualização rápida do design e dos principais gráficos, confira o screenshot abaixo:
 
 ![Screenshot do Dashboard de SSMA](Imagem/visao-geral.png)
+
 ![Screenshot do Dashboard de SSMA](Imagem/equipesma.png)
 
 ## 🛠️ Tecnologias Utilizadas
