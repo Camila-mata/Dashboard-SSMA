@@ -27,5 +27,4 @@ Para uma visualização rápida do design e dos principais gráficos, confira o 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Ferramenta Principal:** Power BI Desktop (Modelagem de Dados, DAX, Visualização)
-* **Fonte de Dados:** Arquivo CSV (Disponível na pasta `/data` deste repositório)
 * **Conceitos Chave:** Criação de Medidas DAX, Relação entre Tabelas, KPI Cards.
