@@ -14,7 +14,7 @@ O objetivo é mostrar como a tecnologia pode ser a maior aliada da prevenção.
 
 O dashboard está publicado e disponível para visualização interativa no Power BI Service.
 
-👉 **[Clique aqui para acessar o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZDk0NGRlZDQtY2ZiMy00ZjVmLTk0M2UtMGYyZGRmNmVkNjA4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)**
+👉 **https://app.powerbi.com/view?r=eyJrIjoiZDk0NGRlZDQtY2ZiMy00ZjVmLTk0M2UtMGYyZGRmNmVkNjA4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9**
 
 ## 🚀 Preview (Screenshot)
 
