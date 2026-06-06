@@ -37,7 +37,7 @@ Para fins de confidencialidade, a base de dados foi **totalmente anonimizada e s
 ## 🚀 Preview do Dashboard
 
 
-![Preview do Dashboard](Dashboard-SSMA/imagem/visao-geral.png)
+![Preview do Dashboard](./Imagem/visao-geral.png)
 
 ---
 
