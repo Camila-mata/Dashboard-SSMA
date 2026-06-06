@@ -36,9 +36,8 @@ Para fins de confidencialidade, a base de dados foi **totalmente anonimizada e s
 
 ## 🚀 Preview do Dashboard
 
-> ⚠️ Adicione aqui uma imagem do seu dashboard (screenshot)
 
-![Preview do Dashboard](./images/dashboard-ssma.png)
+![Preview do Dashboard](./imagem/visao-geral.png)
 
 ---
 
